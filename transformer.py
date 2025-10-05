@@ -1,7 +1,7 @@
 """
 NLP-Tugas 2 
 Della Febi Alfian
-22/606892/TK/55393
+22/505892/TK/55393
 
 Implementasi Transformer (GPT-style Decoder) from Scratch dengan NumPy
 Tugas Individu NLP - Arsitektur Transformer
