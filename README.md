@@ -67,7 +67,9 @@ Atau instal secara manual:
 pip install numpy matplotlib
 ```
 
-️### 3 Menjalankan Uji Coba Sederhana
+---
+
+### ️3 Menjalankan Uji Coba Sederhana
 
 Skrip utama transformer.py berisi uji coba sederhana untuk memvalidasi alur forward pass dan menghasilkan visualisasi pola atensi.
 
